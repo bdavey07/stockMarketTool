@@ -1,0 +1,7 @@
+CLI
+- Stock Price lookup
+
+stock price lookup
+watchlist loaded in
+graphing
+web and local interface
